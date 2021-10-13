@@ -1,0 +1,6 @@
+USE test01
+GO
+
+
+SELECT *
+FROM memberTEST
